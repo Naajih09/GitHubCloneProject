@@ -1,1 +1,2 @@
 This is the feature greetings
+This is a new feature.
